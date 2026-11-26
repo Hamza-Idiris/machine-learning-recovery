@@ -1,0 +1,1 @@
+# Certificates\n\nStore the course completion certificate here after all requirements are met.\n

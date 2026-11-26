@@ -1,0 +1,1 @@
+# Mini-projects\n\nAdd small practical projects here as the course progresses.\n

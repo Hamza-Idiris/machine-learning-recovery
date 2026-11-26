@@ -1,0 +1,1 @@
+# Lesson 01 — Machine Learning Foundations\n\n- `lesson-01.ipynb`: lesson, demonstrations, exercises, and checkpoint\n- `notes.md`: your personal notes\n\nStatus: In progress\n

@@ -1,0 +1,1 @@
+# Lesson 01 — Machine Learning Foundations\n\nWrite your own explanations, questions, and key takeaways here. Complete `lesson-01.ipynb` before moving to Lesson 02.\n
